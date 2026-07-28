@@ -1,0 +1,14 @@
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\bin\Debug\net8.0\Task 3 — Array Duplicate Finder.exe
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\bin\Debug\net8.0\Task 3 — Array Duplicate Finder.deps.json
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\bin\Debug\net8.0\Task 3 — Array Duplicate Finder.runtimeconfig.json
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\bin\Debug\net8.0\Task 3 — Array Duplicate Finder.dll
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\bin\Debug\net8.0\Task 3 — Array Duplicate Finder.pdb
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\obj\Debug\net8.0\Task 3 — Array Duplicate Finder.GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\obj\Debug\net8.0\Task 3 — Array Duplicate Finder.AssemblyInfoInputs.cache
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\obj\Debug\net8.0\Task 3 — Array Duplicate Finder.AssemblyInfo.cs
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\obj\Debug\net8.0\Task 3 — Array Duplicate Finder.csproj.CoreCompileInputs.cache
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\obj\Debug\net8.0\Task 3 — Array Duplicate Finder.dll
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\obj\Debug\net8.0\refint\Task 3 — Array Duplicate Finder.dll
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\obj\Debug\net8.0\Task 3 — Array Duplicate Finder.pdb
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\obj\Debug\net8.0\Task 3 — Array Duplicate Finder.genruntimeconfig.cache
+E:\XONFO\my works\Task 3 — Array Duplicate Finder\obj\Debug\net8.0\ref\Task 3 — Array Duplicate Finder.dll
