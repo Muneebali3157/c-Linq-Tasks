@@ -1,0 +1,14 @@
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\obj\Debug\net8.0\Task 1 — Employee LINQ Playground.GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\obj\Debug\net8.0\Task 1 — Employee LINQ Playground.AssemblyInfoInputs.cache
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\obj\Debug\net8.0\Task 1 — Employee LINQ Playground.AssemblyInfo.cs
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\obj\Debug\net8.0\Task 1 — Employee LINQ Playground.csproj.CoreCompileInputs.cache
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\bin\Debug\net8.0\Task 1 — Employee LINQ Playground.exe
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\bin\Debug\net8.0\Task 1 — Employee LINQ Playground.deps.json
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\bin\Debug\net8.0\Task 1 — Employee LINQ Playground.runtimeconfig.json
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\bin\Debug\net8.0\Task 1 — Employee LINQ Playground.dll
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\bin\Debug\net8.0\Task 1 — Employee LINQ Playground.pdb
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\obj\Debug\net8.0\Task 1 — Employee LINQ Playground.dll
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\obj\Debug\net8.0\refint\Task 1 — Employee LINQ Playground.dll
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\obj\Debug\net8.0\Task 1 — Employee LINQ Playground.pdb
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\obj\Debug\net8.0\Task 1 — Employee LINQ Playground.genruntimeconfig.cache
+E:\XONFO\my works\Task 1 — Employee LINQ Playground\obj\Debug\net8.0\ref\Task 1 — Employee LINQ Playground.dll
