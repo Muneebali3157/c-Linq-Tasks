@@ -1,0 +1,14 @@
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\bin\Debug\net8.0\Task 2 — Dictionary Phonebook App.exe
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\bin\Debug\net8.0\Task 2 — Dictionary Phonebook App.deps.json
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\bin\Debug\net8.0\Task 2 — Dictionary Phonebook App.runtimeconfig.json
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\bin\Debug\net8.0\Task 2 — Dictionary Phonebook App.dll
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\bin\Debug\net8.0\Task 2 — Dictionary Phonebook App.pdb
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\obj\Debug\net8.0\Task 2 — Dictionary Phonebook App.GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\obj\Debug\net8.0\Task 2 — Dictionary Phonebook App.AssemblyInfoInputs.cache
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\obj\Debug\net8.0\Task 2 — Dictionary Phonebook App.AssemblyInfo.cs
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\obj\Debug\net8.0\Task 2 — Dictionary Phonebook App.csproj.CoreCompileInputs.cache
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\obj\Debug\net8.0\Task 2 — Dictionary Phonebook App.dll
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\obj\Debug\net8.0\refint\Task 2 — Dictionary Phonebook App.dll
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\obj\Debug\net8.0\Task 2 — Dictionary Phonebook App.pdb
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\obj\Debug\net8.0\Task 2 — Dictionary Phonebook App.genruntimeconfig.cache
+E:\XONFO\my works\Task 2 — Dictionary Phonebook App\obj\Debug\net8.0\ref\Task 2 — Dictionary Phonebook App.dll
