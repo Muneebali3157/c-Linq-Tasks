@@ -1,0 +1,14 @@
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\bin\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.exe
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\bin\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.deps.json
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\bin\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.runtimeconfig.json
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\bin\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.dll
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\bin\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.pdb
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\obj\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\obj\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.AssemblyInfoInputs.cache
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\obj\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.AssemblyInfo.cs
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\obj\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.csproj.CoreCompileInputs.cache
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\obj\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.dll
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\obj\Debug\net8.0\refint\Task 5 — Mini Project Student Grade Management System.dll
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\obj\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.pdb
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\obj\Debug\net8.0\Task 5 — Mini Project Student Grade Management System.genruntimeconfig.cache
+E:\XONFO\my works\Task 5 — Mini Project Student Grade Management System\obj\Debug\net8.0\ref\Task 5 — Mini Project Student Grade Management System.dll
