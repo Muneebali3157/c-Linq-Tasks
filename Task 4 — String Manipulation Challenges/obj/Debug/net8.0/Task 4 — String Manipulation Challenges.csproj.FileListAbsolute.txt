@@ -1,0 +1,14 @@
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\bin\Debug\net8.0\Task 4 — String Manipulation Challenges.exe
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\bin\Debug\net8.0\Task 4 — String Manipulation Challenges.deps.json
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\bin\Debug\net8.0\Task 4 — String Manipulation Challenges.runtimeconfig.json
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\bin\Debug\net8.0\Task 4 — String Manipulation Challenges.dll
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\bin\Debug\net8.0\Task 4 — String Manipulation Challenges.pdb
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\obj\Debug\net8.0\Task 4 — String Manipulation Challenges.GeneratedMSBuildEditorConfig.editorconfig
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\obj\Debug\net8.0\Task 4 — String Manipulation Challenges.AssemblyInfoInputs.cache
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\obj\Debug\net8.0\Task 4 — String Manipulation Challenges.AssemblyInfo.cs
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\obj\Debug\net8.0\Task 4 — String Manipulation Challenges.csproj.CoreCompileInputs.cache
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\obj\Debug\net8.0\Task 4 — String Manipulation Challenges.dll
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\obj\Debug\net8.0\refint\Task 4 — String Manipulation Challenges.dll
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\obj\Debug\net8.0\Task 4 — String Manipulation Challenges.pdb
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\obj\Debug\net8.0\Task 4 — String Manipulation Challenges.genruntimeconfig.cache
+E:\XONFO\my works\Task 4 — String Manipulation Challenges\obj\Debug\net8.0\ref\Task 4 — String Manipulation Challenges.dll
